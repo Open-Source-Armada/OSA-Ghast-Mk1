@@ -13,18 +13,27 @@ Uses basic FCU, roll is performed using Roll_Left and Roll_Right buttons, this i
 //Cost//
 
 Aeg 0.5 stacks (862 kv)
+
 Aja 0.9 stacks (1488 kv)
+
 Bas 1.4 stacks (2383 kv)
+
 Cha 1.3 stacks (2283 kv)
+
 Ice 1.2 stacks (2000 kv)
+
 Kut 0.0 stacks (43 kv)
+
 Nhu 0.8 stacks (1447 kv)
+
 Vok 2.1 stacks (3603 kv)
 
 Total ore 8.2 stacks (14107 kv)
 
 Assembly cost 13446 credits
+
 Manufacturing cost 16137 credits
+
 Total cost 29582 credits
 
 //Tactics//
